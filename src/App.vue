@@ -11,13 +11,8 @@ import HomePage from './page';
 
 export default {
   name: 'App',
-
   components: {
     HomePage,
   },
-
-  data: () => ({
-    //
-  }),
 };
 </script>
